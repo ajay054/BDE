@@ -87,6 +87,7 @@ var casteddf = productdf.withColumn("Length", col("Length").cast("Float"))
 
   // Filter valid data
 
+  //drop colu
 
 
 
