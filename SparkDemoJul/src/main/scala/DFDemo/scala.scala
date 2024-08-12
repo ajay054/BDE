@@ -86,7 +86,8 @@ var casteddf = productdf.withColumn("Length", col("Length").cast("Float"))
     .withColumn("product_name", lower(col("product_name")))
 
   // Filter valid data
-
+  // Example 1: Filter rows where "product_name" and "product_category" are not null
+  val validDataDF = cleaneddf.filter(col("product_name").isNotNull && col("product_category").isNotNull)
   //drop colu
 
 
