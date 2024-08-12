@@ -1,0 +1,1 @@
+def neverReturns: Nothing = throw new Exception("Oops!")
