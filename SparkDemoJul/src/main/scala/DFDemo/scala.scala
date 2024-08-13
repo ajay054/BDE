@@ -86,15 +86,22 @@ var casteddf = productdf.withColumn("Length", col("Length").cast("Float"))
     .withColumn("product_name", lower(col("product_name")))
 
   // Filter valid data
+  var validdf = cleaneddf.filter(col( colName = "width" )>85)
   // Example 1: Filter rows where "product_name" and "product_category" are not null
-  val validDataDF = cleaneddf.filter(col("product_name").isNotNull && col("product_category").isNotNull)
-  //drop colu
+ // val validDataDF = cleaneddf.filter(col("product_name").isNotNull && col("product_category").isNotNull)
+  //drop columns, colunm pruning
+  validdf = validdf.drop( colName = "product_scale")
+
+  //outlier -- task
+
+  validdf.coalesce( numPartitions = 1).write.csv("C:\\Users\\ajayk\\Documents\\Scala_24\\warehouse\\clean\\productscleaned2")
 
 
 
-  casteddf.printSchema()
 
-  casteddf.show(numRows = 5)
+//  casteddf.printSchema()
+
+  casteddf.show(numRows = 20)
 
 //  productdf.printSchema()
 //
