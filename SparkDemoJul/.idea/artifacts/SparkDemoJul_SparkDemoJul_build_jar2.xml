@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="SparkDemoJul.SparkDemoJul-build:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/SparkDemoJul_SparkDemoJul_build_jar2</output-path>
+    <root id="root">
+      <element id="archive" name="SparkDemoJul.SparkDemoJul-build.jar">
+        <element id="module-output" name="SparkDemoJul.SparkDemoJul-build" />
+      </element>
+    </root>
+  </artifact>
+</component>

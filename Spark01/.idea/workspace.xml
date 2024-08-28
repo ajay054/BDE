@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bfc2576d-41e6-44b5-9043-4ffbb4578e1e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../ Higher-Order.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Closure.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nil.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../None.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nothing.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Null.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Scala_24.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Scalatrait.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Singleton.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sparkd1/.bsp/sbt.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sparkd1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sparkd1/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sparkd1/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sparkd1/.idea/libraries/sbt__org_scala_lang_scala_library_2_10_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sparkd1/.idea/libraries/sbt__scala_sdk_2_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sparkd1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sparkd1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sparkd1/.idea/modules/Sparkd1.Sparkd1-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sparkd1/.idea/modules/Sparkd1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sparkd1/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sparkd1/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sparkd1/.idea/scala_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sparkd1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sparkd1/project/project/target/config-classes/$7055ac2899966664dea3.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sparkd1/project/project/target/config-classes/$7055ac2899966664dea3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstractclass.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../companion.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../purefunction.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sealedtrait.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/Language.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/Main1.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../traits .sc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Main.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Main.scala" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2k1Kc8WxJOYW73xaS9CJNwUurfb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bfc2576d-41e6-44b5-9043-4ffbb4578e1e" name="Changes" comment="" />
+      <created>1722445722711</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722445722711</updated>
+      <workItem from="1722445723795" duration="236000" />
+      <workItem from="1722445983535" duration="97000" />
+      <workItem from="1722508493416" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
